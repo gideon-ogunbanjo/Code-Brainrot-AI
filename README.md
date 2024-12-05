@@ -22,28 +22,24 @@ To get started, ensure you have the following installed on your system:
 1. Clone this repository:
 
 ```bash
-Copy code
 git clone https://github.com/username/brainrot-ai.git
 cd brainrot-ai
 ```
 2. Install dependencies:
 
 ```bash
-Copy code
 pip install -r requirements.txt
-Set the API URL (optional):
 ```
 
-3. If you're using a custom API URL, set it as an environment variable:
+3. Set the API URL (optional):
+If you're using a custom API URL, set it as an environment variable:
 
 ```bash
-Copy code
 export API_URL="http://your-api-url/api/generate"
 ```
 4. Run the application:
 
 ``` bash
-Copy code
 python app.py
 ```
 Open your browser to the provided URL and start chatting with Brainrot AI!
