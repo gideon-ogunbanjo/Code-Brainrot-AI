@@ -51,10 +51,10 @@ Open your browser to the provided URL and start chatting with Brainrot AI!
 - History Management: Tracks the conversation history to provide context-aware responses throughout the session.
 
 🛠 Technologies
-Python: The foundation of the app.
-LLama: A powerful language model used for generating responses to programming-related queries
-Gradio: A simple and beautiful UI framework.
-Requests: Handles communication with the local API.
+- Python: The foundation of the app.
+- LLama: A powerful language model used for generating responses to programming-related queries
+- Gradio: A simple and beautiful UI framework.
+- Requests: Handles communication with the local API.
 
 ### Creator:
 Gideon Ogunbanjo.
