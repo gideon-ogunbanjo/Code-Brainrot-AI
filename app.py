@@ -21,7 +21,7 @@ def generate_response(prompt):
     final_prompt="\n".join(history)
 
     data={
-        "model":"Brainrot AI",
+        "model":"gid30n",
         "prompt":final_prompt,
         "stream":False
     }
