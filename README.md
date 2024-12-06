@@ -22,7 +22,7 @@ To get started, ensure you have the following installed on your system:
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/username/brainrot-ai.git
+git clone https://github.com/gideon-ogunbanjo/Code-Brainrot-AI
 cd brainrot-ai
 ```
 2. Install dependencies:
